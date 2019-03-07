@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1b040be-6868-4625-a32b-52819ec0d46d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oz.20190307/assets/css/lockScreen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oz.20190307/assets/js/lockScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oz.20190307/lockScreen00.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oz.20190307/lockScreen01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/artstemplates/.idea/artstemplates.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/artstemplates/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/artstemplates/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/artstemplates/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/artstemplates/future/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/artstemplates/future/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/artstemplates/future/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/artstemplates/nature/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/artstemplates/nature/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/css/material-dashboard-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/css/material-dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/css/material-dashboard.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/css/material-dashboard.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/demo/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/demo/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/Macbook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/angular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/ex1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/ex2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/ex3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/faces/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/faces/card-profile1-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/faces/card-profile2-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/faces/marc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/iPad2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/imac1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/iphonex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/new_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/react.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/sidebar-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/sidebar-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/sidebar-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/sidebar-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/img/vue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/core/bootstrap-material-design.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/core/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/core/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/material-dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/material-dashboard.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/material-dashboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/arrive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/bootstrap-datetimepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/bootstrap-notify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/bootstrap-selectpicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/bootstrap-tagsinput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/chartist.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/fullcalendar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/jasny-bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/jquery-jvectormap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/jquery.bootstrap-wizard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/jquery.dataTables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/jquery.tagsinput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/nouislider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/perfect-scrollbar.jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/js/plugins/sweetalert2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_cards.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_checkboxes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_core-bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_example-pages.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_fixed-plugin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_footers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_headers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_info-areas.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_misc.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_popups.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_radios.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_ripples.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_sidebar-and-main-panel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_social-buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_tabs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_togglebutton.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_navbar-align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/bootstrap/scss/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/cards/_card-plain.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/cards/_card-profile.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/cards/_card-stats.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_animations.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_chartist.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_colored-shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_drawer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_navbar-colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_navs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_sidebar-color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_transparency.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/mixins/_vendor-prefixes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/plugins/_animate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/plugins/_chartist.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/plugins/_perfect-scrollbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_body.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_bootstrap-material-design-base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_bootstrap-material-design.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_brand.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_colors-map.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_drawer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_menu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_snackbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_state.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/assets/scss/material-dashboard/variables/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/dashboard.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/docs/documentation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/lockScreen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oz.20190306/template.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oz.20190307/dashboard.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="574" column="58" selection-start-line="574" selection-start-column="58" selection-end-line="574" selection-end-column="58" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#7;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#8;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#9;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#10;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oz.20190307/lockScreen00.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oz.20190307/assets/css/lockScreen.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="58" column="17" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Material</find>
+      <find>Page</find>
+      <find>선진포크 제 1</find>
+      <find>user</find>
+      <find>OZ by</find>
+      <find>made with</find>
+      <find>.</find>
+      <find>../assets</find>
+      <find>경기도 수원시 장안구 만석로 159번길</find>
+      <find>User Description&lt;/p&gt;</find>
+      <find>tal Users: 13&lt;/p&gt;</find>
+      <find>card-category</find>
+      <find>Out of work: 3&lt;/p&gt;</find>
+      <find>On the Fields: 3&lt;/p&gt;</find>
+      <find>Vacation: 3&lt;/p&gt;</find>
+      <find>.card-stats .card-header .card-category</find>
+      <find>lock</find>
+      <find>card-</find>
+      <find>mini</find>
+      <find>click</find>
+      <find>mi</find>
+      <find>btn</find>
+      <find>선진포크</find>
+      <find>.jp</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/artstemplates/future/index.html" />
+        <option value="$PROJECT_DIR$/artstemplates/future/css/style.css" />
+        <option value="$PROJECT_DIR$/lockScreen.html" />
+        <option value="$PROJECT_DIR$/dashboard.html" />
+        <option value="$PROJECT_DIR$/oz.20190306/tables.html" />
+        <option value="$PROJECT_DIR$/oz.20190306/dashboard.html" />
+        <option value="$PROJECT_DIR$/oz.20190306/assets/css/material-dashboard.css" />
+        <option value="$PROJECT_DIR$/oz.20190307/lockScreen01.html" />
+        <option value="$PROJECT_DIR$/oz.20190307/assets/js/lockScreen.js" />
+        <option value="$PROJECT_DIR$/oz.20190307/assets/css/material-dashboard.css" />
+        <option value="$PROJECT_DIR$/oz.20190307/assets/js/material-dashboard.js" />
+        <option value="$PROJECT_DIR$/oz.20190307/dashboard.html" />
+        <option value="$PROJECT_DIR$/oz.20190307/assets/css/lockScreen.css" />
+        <option value="$PROJECT_DIR$/oz.20190307/lockScreen00.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OZ.20190307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OZ.20190307" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OZ.20190307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OZ.20190307" type="462c0819:PsiDirectoryNode" />
+              <item name="oz.20190307" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OZ.20190307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OZ.20190307" type="462c0819:PsiDirectoryNode" />
+              <item name="oz.20190307" type="462c0819:PsiDirectoryNode" />
+              <item name="artstemplates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OZ.20190307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OZ.20190307" type="462c0819:PsiDirectoryNode" />
+              <item name="oz.20190307" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OZ.20190307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OZ.20190307" type="462c0819:PsiDirectoryNode" />
+              <item name="oz.20190307" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OZ.20190307" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OZ.20190307" type="462c0819:PsiDirectoryNode" />
+              <item name="oz.20190307" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551942202666" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/artstemplates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1b040be-6868-4625-a32b-52819ec0d46d" name="Default" comment="" />
+      <created>1551838471897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551838471897</updated>
+      <workItem from="1551838473286" duration="7120000" />
+      <workItem from="1551860043949" duration="966000" />
+      <workItem from="1551911914689" duration="771000" />
+      <workItem from="1551918216291" duration="13430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22287000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.118743345" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.21782178" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32960597" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/artstemplates/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/artstemplates/index.html" />
+    <entry file="file://$PROJECT_DIR$/artstemplates/future/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/artstemplates/future/index.html" />
+    <entry file="file://$PROJECT_DIR$/lockScreen.html" />
+    <entry file="file://$PROJECT_DIR$/dashboard.html" />
+    <entry file="file://$PROJECT_DIR$/oz.20190306/docs/documentation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190306/tables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="101" column="64" selection-start-line="101" selection-start-column="64" selection-end-line="101" selection-end-column="64" />
+          <folding>
+            <element signature="e#23736#23742#0" expanded="true" />
+            <element signature="e#27463#27471#0" expanded="true" />
+            <element signature="e#27590#27598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190306/assets/css/material-dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="17318" column="59" lean-forward="true" selection-start-line="17318" selection-start-column="59" selection-end-line="17318" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190306/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="514" column="41" lean-forward="true" selection-start-line="514" selection-start-column="41" selection-end-line="514" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190306/lockScreen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190307/lockScreen02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1336">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190307/artstemplates/nature/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190307/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-end-line="100" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190307/artstemplates/login-form/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" lean-forward="true" selection-end-line="211" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190307/artstemplates/login-form/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190307/artstemplates/login-form/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190307/lockScreen01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190307/assets/js/lockScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190307/assets/css/material-dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="4722" column="4" selection-start-line="4722" selection-start-column="2" selection-end-line="4722" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190307/assets/js/material-dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="412" column="14" selection-start-line="412" selection-start-column="11" selection-end-line="412" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190307/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="574" column="58" selection-start-line="574" selection-start-column="58" selection-end-line="574" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#7;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#8;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#9;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#a#0;n#div#10;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190307/assets/css/lockScreen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="58" column="17" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oz.20190307/lockScreen00.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
